@@ -1,6 +1,10 @@
 # Коллекция полезных .gitignore от GitHub: https://github.com/github/gitignore
 
 # Игнорирование всех markdown-файлов:
+<<<<<<< HEAD
+=======
+
+>>>>>>> d1b15e646808f7a73c4925903f96c808f523df1a
 
 # Исключение из игнорирования конкретного файла:
 !init.md
